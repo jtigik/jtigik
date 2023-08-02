@@ -46,10 +46,10 @@ I'm cordial and I usually help, ask questions or teach new things to anyone who 
 ## 📊 GitHub Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jtigik&show_icons=true&theme=gruvbox&rank_icon=github&card_width=300"  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jtigik&show_icons=true&theme=gruvbox&rank_icon=github"  />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtigik&hide_progress=true&layout=compact&langs_count=8&card_width=300"  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtigik&hide_progress=true&layout=compact&langs_count=8"  />
 </a>
 
 
