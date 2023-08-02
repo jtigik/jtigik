@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm quite analytical, I've a very keen holistic view and great census of self-criticism and collectivity. 
+I'm Jeferson Tigik, a passionate software developer and tech teacher. I'm quite analytical, I've a very keen holistic view and great census of self-criticism and collectivity. 
 Throughout my career, I'm being more demanding with the quality of the work I develop. I work well as a team, I can easily adapt to the rhythm of the group and the routines of each place. 
 I'm cordial and I usually help, ask questions or teach new things to anyone who wants.
 
