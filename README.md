@@ -1,7 +1,13 @@
 ### Hi there 👋
+---
 
-**jtigik/jtigik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm quite analytical, I've a very keen holistic view and great census of self-criticism and collectivity. 
+Throughout my career, I'm being more demanding with the quality of the work I develop. I work well as a team, I can easily adapt to the rhythm of the group and the routines of each place. 
+I'm cordial and I usually help, ask questions or teach new things to anyone who wants or needs it.
+
 ### 🚀 Expertise
+---
+
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
@@ -37,6 +43,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats:
+---
 
 ![Jtigik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtigik&show_icons=true&theme=gruvbox&rank_icon=github)
 
