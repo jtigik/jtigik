@@ -34,10 +34,17 @@ I'm cordial and I usually help, ask questions or teach new things to anyone who 
 
 ## 🌐 Socials:
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.discord.com/users/jefe.wh.15" rel="nofollow">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="max-width: 100%;" alt="Discord">
+</a>
+
+<a href="https://twitter.com/jeftigik" rel="nofollow">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="max-width: 100%;" alt="Twitter">
+</a>
+
+<a href="https://www.linkedin.com/in/jeferson-tigik" rel="nofollow">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;" alt="LinkedIn">
+</a>
 
 ## 📊 GitHub Stats:
 
