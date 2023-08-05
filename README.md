@@ -1,12 +1,12 @@
-## Job in progress... ⚠️
-
 ## Hi there 👋
 
-I'm Jeferson Tigik, a passionate software developer and tech teacher. I'm quite analytical, I've a very keen holistic view and great census of self-criticism and collectivity. 
-Throughout my career, I'm being more demanding with the quality of the work I develop. I work well as a team, I can easily adapt to the rhythm of the group and the routines of each place. 
-I'm cordial and I usually help, ask questions or teach new things to anyone who wants.
+I'm Jeferson Tigik, a passionate software developer and Tech Teacher at SENAC-RS. With over 9 1/2 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
-## 🚀 Expertise:
+## 🚀 Expertise
+
+My primary focus is on Fron-end development, where I specialize in building interactive and user-friendly web applications. I have extensive knowledge of HTML, CSS, JavaScript and Python.
+
+## 💻 Tech Stack
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
