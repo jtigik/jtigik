@@ -48,10 +48,10 @@ My primary focus is on Fron-end development, where I specialize in building inte
 
 ## 📊 GitHub Stats:
 
-
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtigik&hide_progress=true&theme=gruvbox&layout=compact&langs_count=8"  />
 </a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=jtigik&show_icons=true&theme=gruvbox&rank_icon=github"  />
+</a>
 
