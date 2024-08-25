@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm Jeferson Tigik, back - end developer and Tech Teacher at SENAC-RS. 
-Welcome to my GitHub repository! 
+I'm Jeferson Tigik, back - end developer and Tech Teacher at SENAC-RS.\n 
+Welcome to my GitHub repository! \n
 Feel free to explore, contribute, and share your thoughts. Happy coding! 
 
 ## 🚀 Expertise
