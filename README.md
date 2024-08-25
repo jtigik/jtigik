@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm Jeferson Tigik, a passionate software developer and Tech Teacher at SENAC-RS. With over 5 years of experience in the field, I've had the opportunity to work onto exciting projects and explore different technologies.
+I'm Jeferson Tigik, back - end developer and Tech Teacher at SENAC-RS.
+Welcome to my GitHub repository!
+Feel free to explore, contribute, and share your thoughts. Happy coding!
 
 ## 🚀 Expertise
 
