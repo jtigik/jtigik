@@ -4,7 +4,7 @@ Welcome to my GitHub repository! Feel free to explore, contribute, and share you
 
 ## 🚀 Expertise
 
-My primary focus is on back-end development and Tester, where I specialize in building interactive and user-friendly web applications. I have a great knowledge about Java, Python, JUnit5.
+My primary focus is on back-end development and tester (sometimes), where I specialize in building interactive and user-friendly web applications. I have a great knowledge about Java, Python, JUnit5.
 
 ## 💻 Tech Stack
 
