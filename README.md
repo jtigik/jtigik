@@ -56,6 +56,7 @@ My primary focus is on back-end development and tester (sometimes), where I spec
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtigik&hide_progress=true&theme=gruvbox&layout=compact&langs_count=8"  />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=jtigik&show_icons=true&theme=gruvbox&rank_icon=github"  />
 </a>
