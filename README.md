@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi folks 👋
 
 Welcome to my GitHub repository! Feel free to explore, contribute, and share your thoughts. Happy coding! 
 
